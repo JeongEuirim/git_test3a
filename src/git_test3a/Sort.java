@@ -1,6 +1,6 @@
 package git_test3a;
 
-public class Main {
+public class Sort {
 
   public static void sort(int[] a) { 
     quickSort(a, 0, a.length - 1); 
